@@ -1,0 +1,10 @@
+[
+  {
+    "package": "Biobase",
+    "url": "https://github.com/bioc/Biobase"
+  },
+  {
+    "package": "BiocGenerics",
+    "url": "https://github.com/bioc/BiocGenerics"
+  }
+]
